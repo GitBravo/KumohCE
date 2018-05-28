@@ -6,18 +6,6 @@
 #define PLAINTEXT_MAX_SIZE 1024 // 최대 평문 길이
 #define COMMON_DIFFERENCE 50 // 공차
 
-#define MELODY_LENGTH_1 500 // 음 길이
-#define MELODY_LENGTH_2 750 // 음 길이
-#define MELODY_LENGTH_3 1000 // 음 길이
-#define MELODY_LENGTH_4 1250 // 음 길이
-#define MELODY_LENGTH_5 1500 // 음 길이
-#define MELODY_LENGTH_6 1750 // 음 길이
-#define MELODY_LENGTH_7 2000 // 음 길이
-#define MELODY_LENGTH_8 2250 // 음 길이
-#define MELODY_LENGTH_9 2500 // 음 길이
-#define MELODY_LENGTH_10 2750 // 음 길이
-#define MELODY_LENGTH_11 3000 // 음 길이
-#define MELODY_LENGTH_12 3250 // 음 길이
 using namespace std;
 
 class Melody {
